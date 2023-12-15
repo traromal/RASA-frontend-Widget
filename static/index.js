@@ -11,10 +11,10 @@
         jQuery(document).ready(function() {
         
           // Initialize the conversation with a welcome message
-        //   appendToMSGBody("<li>Hi Im helpybo. How can I assist you today?</li>");
+        //   appendToMSGBody("<li>Hi, How can I assist you today?</li>");
         //   appendToMSGBody("<p> <li> <h4>Available Schemes<h4> <br>• Entrepreneur Support Scheme(ESS) <br> • Prime Minister’s Employment Generation Programme [PMEGP] <br> • Margin Money Grant to Nano Units <br> • One Family One Enterprises (OFOE) <br> • PM Formalisation of micro food processing Enterprises Scheme (PM FME Scheme) <br> • Scheme for Interest Subvention to Nano Household Enterprises <br> • Revival and Rehabilitation scheme for Defunct MSMEs and Cashew processing units <br> • Kerala stressed MSMEs Revival & Rehabilitation Scheme <br> • Assistance to Skilled Entrepreneurs Development Centres <br> • Assistance Scheme for Handicrafts Artisans (ASHA) <br> • Scheme for Interest Subvention on Term Loan and Working Capital Loan <br> • MSME Scale Up Mission (Mission 1000) <br> • MSME INSURANCE SCHEME </li> </p>");
             
-        appendToMSGBody("<li>Hi, I'm helpybo. How can I assist you today?</li>");
+        appendToMSGBody("<li>Hi, How can I assist you today?</li>");
 
 // Create a button with the message content hidden
         let buttonElement = document.createElement('button');
